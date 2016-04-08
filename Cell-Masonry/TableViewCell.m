@@ -30,7 +30,7 @@
         }];
         
         self.appendView = [[UIView alloc] init];
-        self.appendView.backgroundColor = [UIColor redColor];
+        self.appendView.backgroundColor = [UIColor greenColor];
         [self.contentView addSubview:self.appendView];
     }
     return self;
